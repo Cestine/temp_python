@@ -6,7 +6,9 @@
 	return 'hello world'
  def func():
 	return 'func'
-
+ c = 5
+ 
+ d = 6
 
 
 
