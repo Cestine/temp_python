@@ -6,7 +6,7 @@
 	return 'hello world'
  def func():
 	return 'func'
-<<<<<<< HEAD
+
  def func1():
 	return 'func1'
 
