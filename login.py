@@ -1,9 +1,14 @@
  a = 1
- 
 
-def index():
+ b = 2
+
+ def index():
 	return 'hello world'
-def func():
+ def func():
 	return 'func'
+
+
+
+
 	
 
