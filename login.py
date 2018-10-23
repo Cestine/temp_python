@@ -6,6 +6,8 @@
 	return 'hello world'
  def func():
 	return 'func'
+ def func1():
+	return 'func1'
 
 
 
